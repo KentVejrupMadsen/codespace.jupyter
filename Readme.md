@@ -19,7 +19,7 @@
 Contact Information: 
 * [Email](mailto:kent.vejrup.madsen@designermadsen.dk)
 * [Issues](https://github.com/KentVejrupMadsen/codespace.jupyter/issues)
-* [Phone](tel:+451902914)
+* [Phone](tel:00451902914)
 * [Github](https://github.com/KentVejrupMadsen/codespace.jupyter)
 
 Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
