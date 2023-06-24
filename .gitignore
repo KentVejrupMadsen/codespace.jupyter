@@ -1,5 +1,7 @@
 .ipynb_checkpoints/*
 
+*.pyc
+
 # Compressed files
 *.zip
 *.tar.gz
