@@ -11,11 +11,9 @@
 ## Footnotes
 
 ### Document details
-Author: [Name]
-
-Copyright: [Name] [Year]
-
-License: [MIT License](license.md)
+* Author: Designermadsen
+* Copyright: Kent vejrup Madsen, 2023
+* License: [MIT License](license.md)
 
 
 Contact Information: 
@@ -26,7 +24,7 @@ Contact Information:
 
 Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
 
-Created at: [Date]
+Created at: 2023-06-23
 
-Last updated at: [Date]
+Last updated at: 2023-06-24
 
