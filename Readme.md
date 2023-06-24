@@ -6,21 +6,21 @@
 * [Contribute](contributing.md)
 * [Code of Conduct](code_of_conduct.md)
 * [Documentation](docs/readme.md)
-* [License](LICENSE.md)
+* [License](License.md)
 
 ## Footnotes
 
 ### Document details
 * Author: Designermadsen
-* Copyright: Kent vejrup Madsen, 2023
-* License: [MIT License](license.md)
+* Copyright: 2023, Kent vejrup Madsen
+* License: [MIT License](License.md)
 
 
 Contact Information: 
-* [Email](mailTo:email@mail.example)
-* [Issues](link)
-* [Phone](.)
-* [Github](link)
+* [Email](mailto:kent.vejrup.madsen@designermadsen.dk)
+* [Issues](https://github.com/KentVejrupMadsen/codespace.jupyter/issues)
+* [Phone](tel:+451902914)
+* [Github](https://github.com/KentVejrupMadsen/codespace.jupyter)
 
 Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
 
