@@ -1,5 +1,0 @@
-# Contributing and Contributions
-
-
-
-## Footnotes

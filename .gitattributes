@@ -1,14 +1,17 @@
 # default
 * text=auto
 
+
 # For documentation
 *.md text diff=markdown eol=crlf
 *.py text diff=py eol=lf
 *.ipynb text diff=ipynb eol=lf
 
+
 # Base
 .gitignore text eol=lf
 .gitattributes text eol=lf
 
+
 /.github export-ignore
-CHANGELOG.md export-ignore
+Changelog.md export-ignore
