@@ -23,5 +23,6 @@ Contact Information:
 Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
 
 Created at: 2023-06-23
+
 Last updated at: 2023-07-09
 
