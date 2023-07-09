@@ -3,7 +3,6 @@
 
 # Project Title
 ## Content
-* [Contribute](contributing.md)
 * [Code of Conduct](code_of_conduct.md)
 * [Documentation](docs/readme.md)
 * [License](License.md)
