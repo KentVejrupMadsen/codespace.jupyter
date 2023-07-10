@@ -13,7 +13,6 @@
 * Copyright: 2023, Kent vejrup Madsen
 * License: [MIT License](License.md)
 
-
 Contact Information: 
 * [Email](mailto:kent.vejrup.madsen@designermadsen.dk)
 * [Issues](https://github.com/KentVejrupMadsen/codespace.jupyter/issues)
@@ -22,7 +21,5 @@ Contact Information:
 
 Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
 
-Created at: 2023-06-23
-
-Last updated at: 2023-07-09
-
+* Created at: 2023-06-23
+* Last updated at: 2023-07-10
