@@ -3,18 +3,15 @@
 
 # Project Title
 ## Content
-* [Contribute](contributing.md)
 * [Code of Conduct](code_of_conduct.md)
 * [Documentation](docs/readme.md)
 * [License](License.md)
 
 ## Footnotes
-
 ### Document details
 * Author: Designermadsen
 * Copyright: 2023, Kent vejrup Madsen
 * License: [MIT License](License.md)
-
 
 Contact Information: 
 * [Email](mailto:kent.vejrup.madsen@designermadsen.dk)
@@ -24,7 +21,5 @@ Contact Information:
 
 Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
 
-Created at: 2023-06-23
-
-Last updated at: 2023-06-24
-
+* Created at: 2023-06-23
+* Last updated at: 2023-07-10
