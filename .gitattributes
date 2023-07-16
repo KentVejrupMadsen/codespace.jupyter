@@ -14,8 +14,8 @@
 *.json text diff=json
 
 # Base
-.gitignore text 
-.gitattributes text
+.gitignore text diff=gitignore
+.gitattributes text diff=gitattributes
 
 /.github export-ignore
 Changelog.md export-ignore
