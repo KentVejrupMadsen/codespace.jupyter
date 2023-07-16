@@ -7,3 +7,4 @@ hardened-steel
 plotly
 tensorflow
 keras
+ipympl
