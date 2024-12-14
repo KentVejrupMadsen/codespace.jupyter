@@ -9,8 +9,8 @@
 
 ## Footnotes
 ### Document details
-* Author: Designermadsen
-* Copyright: 2023, Kent vejrup Madsen
+* Author: Kent Vejrup Madsen
+* Copyright: 2024
 * License: [MIT License](License.md)
 
 Contact Information: 
@@ -22,4 +22,4 @@ Contact Information:
 Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
 
 * Created at: 2023-06-23
-* Last updated at: 2023-07-10
+* Last updated at: 2024-12-14
