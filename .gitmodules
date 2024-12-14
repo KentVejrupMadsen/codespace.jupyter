@@ -1,0 +1,3 @@
+[submodule "frameworks/Keras"]
+	path = frameworks/Keras
+	url = https://github.com/KentVejrupMadsen/codespace.python.keras.git
