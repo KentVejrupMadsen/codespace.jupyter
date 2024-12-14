@@ -9,3 +9,5 @@ tensorflow
 keras
 ipympl
 opencv-python
+jupyter
+jupyterlab
